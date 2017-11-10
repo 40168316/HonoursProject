@@ -1,3 +1,2 @@
 ﻿  main.cpp
-  HelloTriangle.vcxproj -> C:\Users\Calum\documents\visual studio 2015\Projects\HelloTriangle\Debug\HelloTriangle.exe
-  HelloTriangle.vcxproj -> C:\Users\Calum\documents\visual studio 2015\Projects\HelloTriangle\Debug\HelloTriangle.pdb (Full PDB)
+c:\users\40168316\documents\github\honoursproject\hellotriangle\main.cpp(4): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
